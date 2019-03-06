@@ -739,6 +739,16 @@ properties:
       - Unknown
       - Not Reported
 
+  igcccg_stage:
+    term:
+      $ref: "_terms.yaml#/igcccg_stage"
+    enum:
+      - Good Prognosis
+      - Intermediate Prognosis
+      - Poor Prognosis
+      - Unknown
+      - Not Reported
+
   icd_10_code:
     term:
       $ref: "_terms.yaml#/icd_10_code"

@@ -2198,7 +2198,7 @@ masaoka_stage:
     source: caDSR
     cde_id: 3952848
     cde_version: 1.0
-    term_url: "https://cdebrowser.nci.nih.gov/cdebrowserClient/cdeBrowser.html#/search?publicId=3952848&version=1.0" 
+    term_url: "https://cdebrowser.nci.nih.gov/cdebrowserClient/cdeBrowser.html#/search?publicId=3952848&version=1.0"
 
 md5sum: # TOREVIEW
   description: >
